@@ -9,7 +9,7 @@
 These are set of principles that are widely applicable in OOP. Since, flutter is powered with dart so it means these can play very vital role in writing efficient code, maintaining and keeping the code clean
 
 ## 🔑 Key Points
-We are not going to learn them in depth, you can google/GPT that. I've mentioned few key points that causes few confusion when it comes to dart sepecifically
+Not going to write them in depth, you can use google/GPT. I've mentioned few key points that causes few confusion when it comes to dart sepecifically
 
 ### Abstract vs Interface
 #### 📝 Other Languages
