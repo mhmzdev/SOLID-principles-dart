@@ -84,7 +84,7 @@ class DartClassImplements implements DartClass {
   }
 
   @override
-  void conreteMethod() {
+  void abstractMethod() {
     print('Another concrete method');
   }
 }
